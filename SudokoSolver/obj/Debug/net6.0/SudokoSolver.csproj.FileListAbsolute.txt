@@ -1,0 +1,15 @@
+C:\Users\Asgarian.Masoud\Desktop\sudoko c-sharp\SudokoSolver\SudokoSolver\bin\Debug\net6.0\SudokoSolver.exe
+C:\Users\Asgarian.Masoud\Desktop\sudoko c-sharp\SudokoSolver\SudokoSolver\bin\Debug\net6.0\SudokoSolver.deps.json
+C:\Users\Asgarian.Masoud\Desktop\sudoko c-sharp\SudokoSolver\SudokoSolver\bin\Debug\net6.0\SudokoSolver.runtimeconfig.json
+C:\Users\Asgarian.Masoud\Desktop\sudoko c-sharp\SudokoSolver\SudokoSolver\bin\Debug\net6.0\SudokoSolver.dll
+C:\Users\Asgarian.Masoud\Desktop\sudoko c-sharp\SudokoSolver\SudokoSolver\bin\Debug\net6.0\SudokoSolver.pdb
+C:\Users\Asgarian.Masoud\Desktop\sudoko c-sharp\SudokoSolver\SudokoSolver\obj\Debug\net6.0\SudokoSolver.csproj.AssemblyReference.cache
+C:\Users\Asgarian.Masoud\Desktop\sudoko c-sharp\SudokoSolver\SudokoSolver\obj\Debug\net6.0\SudokoSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asgarian.Masoud\Desktop\sudoko c-sharp\SudokoSolver\SudokoSolver\obj\Debug\net6.0\SudokoSolver.AssemblyInfoInputs.cache
+C:\Users\Asgarian.Masoud\Desktop\sudoko c-sharp\SudokoSolver\SudokoSolver\obj\Debug\net6.0\SudokoSolver.AssemblyInfo.cs
+C:\Users\Asgarian.Masoud\Desktop\sudoko c-sharp\SudokoSolver\SudokoSolver\obj\Debug\net6.0\SudokoSolver.csproj.CoreCompileInputs.cache
+C:\Users\Asgarian.Masoud\Desktop\sudoko c-sharp\SudokoSolver\SudokoSolver\obj\Debug\net6.0\SudokoSolver.dll
+C:\Users\Asgarian.Masoud\Desktop\sudoko c-sharp\SudokoSolver\SudokoSolver\obj\Debug\net6.0\refint\SudokoSolver.dll
+C:\Users\Asgarian.Masoud\Desktop\sudoko c-sharp\SudokoSolver\SudokoSolver\obj\Debug\net6.0\SudokoSolver.pdb
+C:\Users\Asgarian.Masoud\Desktop\sudoko c-sharp\SudokoSolver\SudokoSolver\obj\Debug\net6.0\SudokoSolver.genruntimeconfig.cache
+C:\Users\Asgarian.Masoud\Desktop\sudoko c-sharp\SudokoSolver\SudokoSolver\obj\Debug\net6.0\ref\SudokoSolver.dll

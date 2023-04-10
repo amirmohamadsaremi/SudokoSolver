@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Asgarian.Masoud\\Desktop\\sudoko c-sharp\\SudokoSolver\\SudokoSolver\\SudokoSolver.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Asgarian.Masoud\\Desktop\\sudoko c-sharp\\SudokoSolver\\SudokoSolver\\SudokoSolver.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Asgarian.Masoud\\Desktop\\sudoko c-sharp\\SudokoSolver\\SudokoSolver\\SudokoSolver.csproj",
+        "projectName": "SudokoSolver",
+        "projectPath": "C:\\Users\\Asgarian.Masoud\\Desktop\\sudoko c-sharp\\SudokoSolver\\SudokoSolver\\SudokoSolver.csproj",
+        "packagesPath": "C:\\Users\\Asgarian.Masoud\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asgarian.Masoud\\Desktop\\sudoko c-sharp\\SudokoSolver\\SudokoSolver\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Asgarian.Masoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
